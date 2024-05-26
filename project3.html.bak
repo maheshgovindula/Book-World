@@ -1,0 +1,45 @@
+<html>
+<head>
+	<title>Books</title>
+</head>
+<body bgcolor=lightgreen>
+<h1 align=center>BOOKS</h1>
+<hr><br>
+	<table border=2 width=1000 align="center">
+		<tr>
+			<td align=center>
+				<a href="#">
+				<img src="comedy.jpg" height=240 width=280>
+				<br><br><center>Comedy</center>
+			</td>
+			<td align=center>
+				<a href="#">
+				<img src="fantacy.jpg" height=240 width=280>
+				<br><br><center>Fantacy</center>
+			</td>
+			<td align=center>
+				<a href="#">
+				<img src="horror.jpg" height=240 width=280>
+				<br><br><center>Horror</center>
+			</td>
+		</tr>
+		<tr>
+			<td align=center>
+				<a href="#">
+				<img src="thriller.jpg" height=240 width=280>
+				<br><br><center>Thriller</center>
+			</td>
+			<td align=center>
+				<a href="#">
+				<img src="romantic.jpg" height=240 width=280>
+				<br><br><center>Romance</center>
+			</td>
+			<td align=center>
+				<a href="#">
+				<img src="biography.jpg" height=240 width=280>
+				<br><br><center>Biography</center>
+			</td>
+		</tr>
+	</table>
+</body>
+</html>
